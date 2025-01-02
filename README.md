@@ -1,5 +1,5 @@
 # Improving DroTrack
-This project was a collaborative effort by Alexandre St-Aubin, Alexis Viau-Cardinal, and Rafid Saif, in the context of a final project for the course COMP 558 at McGill University in the Fall 2024 semester. The original repository can be found [here](https://github.com/AlexisViauCardinal/COMP558-FinalProject), and the project website [here](https://alestaubin.github.io/Improving_Drotrack_Website/). The project report can be found [here](ImprovingDroTrack.pdf).
+This project was a collaborative effort by Alexandre St-Aubin, Alexis Viau-Cardinal, and Rafid Saif, in the context of a final project for the course COMP 558 at McGill University in the Fall 2024 semester. The original repository can be found [here](https://github.com/AlexisViauCardinal/COMP558-FinalProject), and the project website [here](https://alestaubin.github.io/Improving_Drotrack/). The project report can be found [here](ImprovingDroTrack.pdf).
 ## Abstract 
 The increased deployment of Unmanned Aerial Vehicles (UAVs) has amplified the demand for robust object tracking methods, essential for applications like search and rescue, surveillance, and agriculture. 
 State-of-the-art feature-based trackers such as DroTrack integrate optical flow and segmentation to achieve real-time performance in drone-based scenarios. 
